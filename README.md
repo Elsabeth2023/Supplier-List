@@ -1,6 +1,6 @@
 # Supplier-List
 Hidassie Supplier List
 
-|*Supplier Name*|*Location*|*Phone Number*|
-|:-------------:|:--------:|:------------|
-|Aben & Sol Transit Plc|Bole|+251 930 106 193/94|
+|*Supplier Name*|*Location*|
+|:-------------:|:--------:|
+|[Aben & Sol Transit Plc](https://docs.google.com/document/d/1Mx-TwIs8ngAIryov83N-apDrucPW1fdaC8gvn_nL8HE/edit)|Bole|
