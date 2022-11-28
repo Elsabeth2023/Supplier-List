@@ -16,11 +16,12 @@ Hidasie Supplier List
 |[Garment](https://docs.google.com/spreadsheets/d/1ExIS1zVWaLrGaWG_ApBWHIfbEftjrXsbRJD5pkSfucc/edit?usp=sharing)|
 |[Hotels](https://docs.google.com/spreadsheets/d/1hzwV4AYRQefKQCJLJ6PHvod7ROSX1WTorNFoGZzDhu8/edit?usp=sharing)|
 |[Insurance](https://docs.google.com/spreadsheets/d/1bN61VMjYjsQjir9KSga096u46Ns7hSLJCiG8ZAA7BI0/edit?usp=sharing)|
+|[Insurance Broker](https://docs.google.com/spreadsheets/d/1CLiM-082AYd7oNic4BAAlTIbkpQu1EPlxFdB6qlGPoE/edit?usp=sharing)|
 |[Printing](https://docs.google.com/spreadsheets/d/1FTBrnVP23B2V0UW0Qin8niFPO_21RXU6hY_y_5rhLio/edit?usp=sharing)|
 |[Safety shoe and clothes](https://docs.google.com/spreadsheets/d/1nh9Ksaqfhr9EJKZa_W4uVBX9-NwhuBfInBmtMrYmu0o/edit?usp=sharing)|
 |[Sparepart](https://docs.google.com/spreadsheets/d/1NPrwS0gjwMgrXCtjzUoQadsWlqy8Yh_wuLgGlbvn99A/edit?usp=sharing)|
 |[Tyre](https://docs.google.com/spreadsheets/d/1BrHp5DRVXBzVSDrQ0hk3zmep63hTM-YmMDcB5dNYvv8/edit?usp=sharing)|
 |[Vehicles](https://docs.google.com/spreadsheets/d/1QCaNZz6D-niuUhVA4PblQQm8X0pfTK-VQQ8baSTxqb8/edit?usp=sharing)|
-|[Insurance Broker](https://docs.google.com/spreadsheets/d/1CLiM-082AYd7oNic4BAAlTIbkpQu1EPlxFdB6qlGPoE/edit?usp=sharing)|
+
 
 
