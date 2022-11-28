@@ -21,5 +21,6 @@ Hidasie Supplier List
 |[Sparepart](https://docs.google.com/spreadsheets/d/1NPrwS0gjwMgrXCtjzUoQadsWlqy8Yh_wuLgGlbvn99A/edit?usp=sharing)|
 |[Tyre](https://docs.google.com/spreadsheets/d/1BrHp5DRVXBzVSDrQ0hk3zmep63hTM-YmMDcB5dNYvv8/edit?usp=sharing)|
 |[Vehicles](https://docs.google.com/spreadsheets/d/1QCaNZz6D-niuUhVA4PblQQm8X0pfTK-VQQ8baSTxqb8/edit?usp=sharing)|
+|[Insurance Broker](https://docs.google.com/spreadsheets/d/1CLiM-082AYd7oNic4BAAlTIbkpQu1EPlxFdB6qlGPoE/edit?usp=sharing)|
 
 
